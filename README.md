@@ -21,6 +21,8 @@
 
 <h1>Je suis ue fougère !</h1>
 
+WOLOLOOOOO
+
 Ce module regroupe tous les types de contenu « socle éditorial » pour les sites JCMS du Département ainsi que les gabarits d'affichage associés.
 
 Socle des contenus éditorial :
@@ -53,6 +55,8 @@ Socle des contenus représentant le découpage territorial (synchronisés entre 
 -	Commune (City)
 -	Commune hors département (CommuneHorsDepartement)
 -	Élu (ElectedMember)
+
+<a href="google.se">Le meilleur moteur de recherche au monde !</a>
 
 # Personnalisation de l'éditeur wysiwyg et des styles wysiwyg
 
