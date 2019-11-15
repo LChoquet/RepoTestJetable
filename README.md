@@ -19,7 +19,6 @@
     </a>
 </p>
 
-<h1>Je suis ue fougère !</h1>
 
 Ce module regroupe tous les types de contenu « socle éditorial » pour les sites JCMS du Département ainsi que les gabarits d'affichage associés.
 
@@ -31,11 +30,6 @@ Socle des contenus éditorial :
 -	Fiche lieux (Place)
 - Fiche aide (Help)
 -	Actualité (News)
--	Dossier d'actualités (Directory)
--	Carousel (Carousel)
--	Élément carrousel (CarouselElement)
--	Alerte (AlertCG)
--	Résultat de recherche (ResultatDeRecherche)
 -	Chapitre de vidéo YouTube (Chapitre)
 
 Un nouveau type de contenu "**VideoChapitree**" a été créée pour faciliter la saisie et fonctionner avec l'insertion unifiée.
@@ -44,19 +38,17 @@ Un nouveau type de contenu "**VideoChapitree**" a été créée pour faciliter l
 
 **LE GABARIT EST A REVOIR : js inclus dans le corps de la JSP + bug si plusieurs vidéos ajoutées dans un article**
 
-<b>Ca vous en bouche un coin, hein ?</b>
-
-Socle des contenus représentant le découpage territorial (synchronisés entre tous les sites depuis le site institutionnel) :
-
 -	Canton (Canton)
 -	Délégation (Delegation)
 -	Commune (City)
 -	Commune hors département (CommuneHorsDepartement)
 -	Élu (ElectedMember)
 
+<a href="google.se">Le meilleur moteur de recherche au monde !</a>
+
 # Personnalisation de l'éditeur wysiwyg et des styles wysiwyg
 
-<h2>All your git are belong to us</h2>
+<h2>All your git belong to us</h2>
 
 Fichiers :
 + configuration-charteconfig.conf
@@ -65,13 +57,6 @@ Fichiers :
 => Ajout du fichier configuration-charteconfig.conf pour surcharger les options de la configuration par defaut du wysiwyg.
 
 Permet notamment de personnaliser la liste des types de blocs à appliquer au texte sélectionné (**paragraphe**, **titre 2-6**, **encadré**, **bouton**...)
-
-=> Ajout du fichier configuration-styles.conf pour ajouter une liste de styles "**Formats**" à l'éditeur wysiwyg.
-
-Permet de choisir le type style à appliquer (**h1/h2/h3/h4-like**, **bouton noir/vert/jaune**,...). Agit en complément de la liste des types de blocs.
-
-Ex : je sélectionne mon texte puis je choisi "**En-tête 2**" dans la liste des blocs, puis je choisis "**h1-like**" dans la liste des formats.
-
 
 Pour le rendu graphique en mode édition, la css du design system a été chargée.
 
