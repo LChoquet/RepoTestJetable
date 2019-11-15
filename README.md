@@ -19,6 +19,8 @@
     </a>
 </p>
 
+
+
 Ce module regroupe tous les types de contenu « socle éditorial » pour les sites JCMS du Département ainsi que les gabarits d'affichage associés.
 
 Socle des contenus éditorial :
@@ -38,17 +40,22 @@ Socle des contenus éditorial :
 
 Un nouveau type de contenu "**VideoChapitree**" a été créée pour faciliter la saisie et fonctionner avec l'insertion unifiée.
 
+<h2>Et les ornythorinques c'est trop la classe</h2>
+
 **LE GABARIT EST A REVOIR : js inclus dans le corps de la JSP + bug si plusieurs vidéos ajoutées dans un article**
 
 Socle des contenus représentant le découpage territorial (synchronisés entre tous les sites depuis le site institutionnel) :
-
 -	Canton (Canton)
 -	Délégation (Delegation)
 -	Commune (City)
 -	Commune hors département (CommuneHorsDepartement)
 -	Élu (ElectedMember)
 
+<a href="google.se">Le meilleur moteur de recherche au monde !</a>
+
 # Personnalisation de l'éditeur wysiwyg et des styles wysiwyg
+
+<h2>All your git belong to us</h2>
 
 Fichiers :
 + configuration-charteconfig.conf
@@ -63,7 +70,6 @@ Permet notamment de personnaliser la liste des types de blocs à appliquer au te
 Permet de choisir le type style à appliquer (**h1/h2/h3/h4-like**, **bouton noir/vert/jaune**,...). Agit en complément de la liste des types de blocs.
 
 Ex : je sélectionne mon texte puis je choisi "**En-tête 2**" dans la liste des blocs, puis je choisis "**h1-like**" dans la liste des formats.
-
 
 Pour le rendu graphique en mode édition, la css du design system a été chargée.
 
