@@ -19,9 +19,6 @@
     </a>
 </p>
 
-<h1>Je suis ue fougère !</h1>
-
-WOLOLOOOOO
 
 Ce module regroupe tous les types de contenu « socle éditorial » pour les sites JCMS du Département ainsi que les gabarits d'affichage associés.
 
