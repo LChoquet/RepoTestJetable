@@ -119,3 +119,7 @@ Ces gabarits seront à recharter.e
 
 A quoi servent les interfaces (fr.cg44.plugin.socle.interfaces) ?
 
+premiere ligne modif
+deuxieme ligne modif
+troisieme ligne modif
+quatrieme ligne modif
