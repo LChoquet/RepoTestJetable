@@ -19,6 +19,8 @@
     </a>
 </p>
 
+<h1>Je suis ue fougère !</h1>
+
 Ce module regroupe tous les types de contenu « socle éditorial » pour les sites JCMS du Département ainsi que les gabarits d'affichage associés.
 
 Socle des contenus éditorial :
@@ -38,7 +40,11 @@ Socle des contenus éditorial :
 
 Un nouveau type de contenu "**VideoChapitree**" a été créée pour faciliter la saisie et fonctionner avec l'insertion unifiée.
 
+<h2>Et les ornythorinques c'est trop la classe</h2>
+
 **LE GABARIT EST A REVOIR : js inclus dans le corps de la JSP + bug si plusieurs vidéos ajoutées dans un article**
+
+<b>Ca vous en bouche un coin, hein ?</b>
 
 Socle des contenus représentant le découpage territorial (synchronisés entre tous les sites depuis le site institutionnel) :
 
@@ -49,6 +55,8 @@ Socle des contenus représentant le découpage territorial (synchronisés entre 
 -	Élu (ElectedMember)
 
 # Personnalisation de l'éditeur wysiwyg et des styles wysiwyg
+
+<h2>All your git are belong to us</h2>
 
 Fichiers :
 + configuration-charteconfig.conf
